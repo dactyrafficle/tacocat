@@ -1,0 +1,29 @@
+html, body {
+  font-family: calibri;
+}
+
+pre {
+  white-space: pre-wrap;
+}
+
+.blue {
+  color: rgb(0, 0, 150);
+  border: 1px solid #ddd;
+  padding: 5px;
+}
+.green {
+  color: green;
+}
+.inline-code {
+  font-family: monospace;
+  background-color: #ddd;
+  padding: 2px;
+}
+.light-orange {
+  color: #ff9900;
+  font-weight: bold;
+  font-size: 1.1em;
+}
+.pink {
+  color: #faf;
+}
